@@ -7,7 +7,7 @@ Datetime Format
 | d  | 01 through 31  |
 | D  | Mon through Sun  |
 | j  | 1 through 31  |
-| l (lowercase 'L')  | Sunday throguh Saturday  |
+| l (lowercase 'L')  | Sunday through Saturday  |
 | N  | 1 (Monday) to 7 (Sunday) |
 | S  | st, nd, rd, th  |
 | w  | 0 (sunday) through 6 (Saturday)  |
@@ -37,11 +37,12 @@ Datetime Format
 | a  | am or pm  |
 | A  | AM or PM |
 | B  | 000 through 999  |
-| g  | 1 through 12  |
-| G  | 0 through 23  |
-| h  | 01 through 12  |
-| H  | 01 through 23  |
-| i  | 00 throguh 59  |
+| g  | 1 through 12  (hours)  |
+| G  | 0 through 23  (hours)  |
+| h  | 01 through 12 (hours)  |
+| H  | 01 through 23 (hours)  |
+| i  | 00 through 59 (minutes)  |
+| s  | 00 through 59 (seconds)  |
 | u  | 123456 (microseconds)  |
 
 | Timezone Format  | Value/Example |
